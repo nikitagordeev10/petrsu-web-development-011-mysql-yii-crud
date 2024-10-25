@@ -1,0 +1,20 @@
+
+INSERT INTO images (id, name, caption) VALUES (3, 'dog.jpg', 'Собака на пляже');
+INSERT INTO images (id, name, caption) VALUES (4, 'sunset.jpg', 'Закат над городом');
+INSERT INTO images (id, name, caption) VALUES (5, 'flower.jpg', 'Красивые цветы в парке');
+INSERT INTO images (id, name, caption) VALUES (6, 'food.jpg', 'Аппетитное блюдо в ресторане');
+INSERT INTO imINSERT INTO images (id, name, caption) VALUES (2, 'cat.jpg', 'Котенок на окне');ages (id, name, caption) VALUES (7, 'mountain.jpg', 'Величественные горы');
+INSERT INTO images (id, name, caption) VALUES (8, 'beach.jpg', 'Жаркий день на пляже');
+INSERT INTO images (id, name, caption) VALUES (9, 'car.jpg', 'Быстрый автомобиль на трассе');
+INSERT INTO images (id, name, caption) VALUES (10, 'book.jpg', 'Уютный вечер с книгой');
+INSERT INTO images (id, name, caption) VALUES (11, 'city.jpg', 'Шумный и яркий город');
+INSERT INTO images (id, name, caption) VALUES (12, 'forest.jpg', 'Густой лес в тумане');
+INSERT INTO images (id, name, caption) VALUES (13, 'park.jpg', 'Спокойный парк с водоемом');
+INSERT INTO images (id, name, caption) VALUES (14, 'building.jpg', 'Высотное здание в центре');
+INSERT INTO images (id, name, caption) VALUES (15, 'street.jpg', 'Суетливая улица в центре');
+INSERT INTO images (id, name, caption) VALUES (16, 'sky.jpg', 'Бесконечность голубого неба');
+INSERT INTO images (id, name, caption) VALUES (17, 'phone.jpg', 'Крутой смартфон с камерой');
+INSERT INTO images (id, name, caption) VALUES (18, 'music.jpg', 'Концерт любимого исполнителя');
+INSERT INTO images (id, name, caption) VALUES (19, 'book2.jpg', 'Увлекательная книга в отпуске');
+INSERT INTO images (id, name, caption) VALUES (20, 'coffee.jpg', 'Ароматный кофе на завтраке');
+INSERT INTO images (id, name, caption) VALUES (21, 'garden.jpg', 'Романтический сад с фонтаном');
